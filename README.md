@@ -1,6 +1,7 @@
 ## Mikrotik hAP ax lite LTE6
 Notes on configuring the LTE interface of this router
-LTE Interface Specifications
+
+#### LTE Interface Specifications
 - Model: FG621-EA
 - Rev: 16121.1034.00.01.01.03
   
