@@ -7,4 +7,8 @@ Notes on configuring the LTE interface of this router
   
 ![image](https://github.com/ivanaposdev/mikrotik-hap-ax-lte/assets/113334411/5fdf2a91-6d49-49b8-815d-1e6fd08d6ced)
 
+#### Cell Locking 
+
+`> interface lte at-chat lte1 input="AT+GTCELLLOCK=1,0,0,150,344"`
+
 ![image](https://github.com/ivanaposdev/mikrotik-hap-ax-lte/assets/113334411/dae5bd09-f101-4d3d-916e-a31a0c346bc5)
