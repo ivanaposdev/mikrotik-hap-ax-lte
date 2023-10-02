@@ -9,6 +9,11 @@ Notes on configuring the LTE interface of this router
 
 #### Cell Locking 
 
+Command:  
 `> interface lte at-chat lte1 input="AT+GTCELLLOCK=1,0,0,150,344"`
 
+Example:  
 ![image](https://github.com/ivanaposdev/mikrotik-hap-ax-lte/assets/113334411/dae5bd09-f101-4d3d-916e-a31a0c346bc5)
+
+Primary Band will now be locked:  
+![image](https://github.com/ivanaposdev/mikrotik-hap-ax-lte/assets/113334411/92fb104b-871a-44fc-b31c-90cbe3fb709b)
