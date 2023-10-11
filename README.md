@@ -23,7 +23,7 @@ where
 
 <earfcn>: integer type; the range is 0-65535.
 
-<PCI>: integer type; If second parameter value is 0, the range is 0-503 for LTE If second parameter value is 1, the rang is 0-512 for WCDMA
+<PCI>: integer type; If the second parameter value is 0, the range is 0-503 for LTE If the second parameter value is 1, the range is 0-512 for WCDMA
 ```
 
 Reference: https://help.mikrotik.com/docs/display/ROS/LTE#LTE-UsingCelllock
